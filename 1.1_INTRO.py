@@ -15,5 +15,5 @@
 # 6. hyperparameter tuning -- optimizing model parameters to improve performance
 # 7. deployment -- integrating the model into a production environment for real-world use
 
-
+## Types of Data:
 
